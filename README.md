@@ -6,9 +6,9 @@
     </a>
   </p>
 
-## <a href="https://github.com/mughees-asif/machinelearning-projects/blob/master/end-to-end-heart-disease-classification.ipynb">Project 1</a>: Predicting Heart Disease using Machine Learning
+## <a href="https://github.com/mughees-asif/machinelearning-projects/blob/master/end-to-end-heart-disease-classification.ipynb">Project 1</a>: Predicting heart disease
 
-## <a href="https://github.com/mughees-asif/machinelearning-projects/blob/master/end-to-end-bluebook-bulldozer-price-regression.ipynb">Project 2</a>: Predicting sale price of a bulldozer
+## <a href="https://github.com/mughees-asif/machinelearning-projects/blob/master/end-to-end-bluebook-bulldozer-price-regression.ipynb">Project 2</a>: Predicting the sale price of a bulldozer
 
 
 
