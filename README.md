@@ -1,7 +1,7 @@
 # Machine Learning projects
 
 <p align="center">
-   <img src="https://www.ie.edu/exponential-learning/blog/wp-content/uploads/2018/01/MachineLearninginMarketing-1621x1000.jpg">
+   <img height="500" src="https://www.ie.edu/exponential-learning/blog/wp-content/uploads/2018/01/MachineLearninginMarketing-1621x1000.jpg">
 </p>
 
 
