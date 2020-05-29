@@ -1,4 +1,4 @@
-# Machine Learning projects
+# Machine Learning and Data Science projects
 
 <p align="center">
    <img height="300" src="https://www.ie.edu/exponential-learning/blog/wp-content/uploads/2018/01/MachineLearninginMarketing-1621x1000.jpg">
